@@ -19,8 +19,6 @@ For this project, the MiniLibX version for Linux (minilibx_linux) was used.
 
  - Run `make` inside the repository, and the Makefile will automatically install the MiniLibX for Linux (minilibx-linux) and generate the binary named `fractol`.
 
-
-
 - You can run three different commands to generate different fractals:
 
 ```bash
@@ -28,7 +26,10 @@ For this project, the MiniLibX version for Linux (minilibx_linux) was used.
     ./fractol julia <real> <imag>
     ./fractol fern
 ```
- -- This will create a Mandelbrot set, Julia set, and a Barnsley fern, respectively. 
+ -- This will create a Mandelbrot set, Julia set, and a Barnsley fern, respectively.
+
+![Screenshot from 2024-04-02 17-01-22](https://github.com/Jburlama/fractol/assets/132925534/e198f908-c64e-4185-81e9-d4125c0064aa)
+
 ## Events
 
 - You can zoom in and out by pressing the '+' and '-' keys. Additionally, you can use the mouse scroll wheel, and the zoom will follow the mouse pointer.
