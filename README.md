@@ -30,6 +30,10 @@ For this project, the MiniLibX version for Linux (minilibx_linux) was used.
 
 ![Screenshot from 2024-04-02 17-01-22](https://github.com/Jburlama/fractol/assets/132925534/e198f908-c64e-4185-81e9-d4125c0064aa)
 
+![Screenshot from 2024-04-02 17-40-07](https://github.com/Jburlama/fractol/assets/132925534/4c23f370-8181-48ba-8f2c-032e87d6bb80)
+
+![Screenshot from 2024-04-02 17-41-40](https://github.com/Jburlama/fractol/assets/132925534/2a97f75f-15cc-4812-aa67-d739cb2bd407)
+
 ## Events
 
 - You can zoom in and out by pressing the '+' and '-' keys. Additionally, you can use the mouse scroll wheel, and the zoom will follow the mouse pointer.
