@@ -13,7 +13,7 @@
 NAME = fractol
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror
-LIB = -Lminilibx-linux -lmlx -lXext -lX11 -lm 
+LIB = -Lminilibx-linux -lmlx -lXext -lX11 -Iminilibx-linux
 RM = rm -f
 CFILES = main.c utils.c events.c render_sets.c zoom.c fractols.c fern.c
 MINILIBX = minilibx-linux/libmlx_Linux.a
