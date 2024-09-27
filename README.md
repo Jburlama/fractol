@@ -51,4 +51,4 @@ For this project, the MiniLibX version for Linux (minilibx_linux) was used.
 
 **Install** [norminette](https://github.com/42School/norminette).
 
-For more information about the project [subject](https://cdn.intra.42.fr/pdf/pdf/138296/en.subject.pdf)
+For more information about the project [subject](https://cdn.intra.42.fr/pdf/pdf/138384/en.subject.pdf)
