@@ -45,3 +45,10 @@ For this project, the MiniLibX version for Linux (minilibx_linux) was used.
 - You can press 'Esc' or click the 'x' button on the top right corner to close the window.
 
 - You can move the view by pressing the arrow keys.
+----------------------------------------------------------------------
+
+**fractol** must conform to the [42 Norm](https://cdn.intra.42.fr/pdf/pdf/96987/en.norm.pdf).
+
+**Install** [norminette](https://github.com/42School/norminette).
+
+For more information about the project [subject](https://cdn.intra.42.fr/pdf/pdf/138296/en.subject.pdf)
